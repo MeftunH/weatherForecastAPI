@@ -21,7 +21,7 @@ public class DailyRoot {
     private int timezone;
     private int id;
 
-    @NotNull("city name can not be null")
+    @NotNull(message = "Name cannot be null")
     private String name;
 
     private int cod;
