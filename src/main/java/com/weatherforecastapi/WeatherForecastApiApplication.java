@@ -1,4 +1,4 @@
-package com.example.weatherforecastapi;
+package com.weatherforecastapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
